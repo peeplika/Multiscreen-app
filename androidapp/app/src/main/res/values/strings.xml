@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">android app</string>
+    <string name="button">send</string>
+    <string name="receive">receive</string>
+    <string name="delete">delee</string>
+    <string name="send">send</string>
+</resources>
